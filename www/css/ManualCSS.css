@@ -1,0 +1,118 @@
+.ejemplocolor1{
+    
+    color:blue;
+}
+.ejemplocolor2{
+    
+    color:red;
+}
+.ejemplocolor3{
+    
+    color:#00FF00;
+}
+.fondonegro{
+    
+    background-color: black;
+    color: white;
+    
+}
+#cuadradoamarillo{
+    
+    background-color: yellow;
+    width: 12em;
+    height: 12em;
+    float:left;
+
+}
+#cuadradorojo{
+    
+    background-color: red;
+    width: 12em;
+    height: 12em;
+    float:left;
+}
+#textodescriptivo{
+    width: 12em;
+    height: 12em;
+    float:left;
+    
+}
+.normal {
+    font-style: normal;
+    
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.weight500{
+    
+    font-weight: 500;
+}
+.weight700{
+    
+    font-weight: 700;
+}
+.weightbold{
+    
+    font-weight:bold;
+}
+
+.pequeño{
+    
+    font-size: 10px;
+}
+.interlineado{
+    
+    line-height: 80%;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.centro{
+    text-align: center;
+}
+
+.subrayado{
+    
+    text-decoration: underline;
+}
+
+.tachado{
+    text-decoration: line-through;
+}
+
+.sobrelineado{
+    text-decoration: overline;
+}
+
+#IES{
+    text-decoration: none;
+}
+
+
+#google{
+    
+    text-decoration:none;
+    color: aqua;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.enlace{
+    text-decoration: none;
+    color: chocolate;
+    
+}
+.enlace:hover{
+    text-decoration: overline;
+    color: green;
+}
